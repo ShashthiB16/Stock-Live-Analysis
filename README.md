@@ -6,7 +6,8 @@ Developed an interactive Power BI dashboard to analyze live stock market data.
 The dashboard provides insights into market performance, price trends, trading volume,
 volatility, sector-wise performance, and investor sentiment, helping users make data-driven investment decisions.
 
-* 🛠️ Tech Stack
+ 🛠️ Tech Stack
+ 
 * ⚡ Power BI
 * 🐍 Python
 * 🐼 Pandas
@@ -23,14 +24,14 @@ Live stock market data collected using the Yahoo Finance API (yfinance) and proc
 
 Real-time stock market monitoring
 
-* • Market overview with KPIs (Average Price, Maximum Price, Minimum Price, Trading Volume)
-* • Daily and monthly stock price trend analysis
-* • Trading volume analysis across months
-* • Price volatility analysis
-* • Company-wise stock performance comparison
-* • Bullish vs Bearish market sentiment analysis
-* • Sector-wise performance and volatility analysis
-* • Interactive filters and slicers for dynamic reporting
+*  Market overview with KPIs (Average Price, Maximum Price, Minimum Price, Trading Volume)
+*  Daily and monthly stock price trend analysis
+*  Trading volume analysis across months
+*  Price volatility analysis
+*  Company-wise stock performance comparison
+*  Bullish vs Bearish market sentiment analysis
+*  Sector-wise performance and volatility analysis
+*  Interactive filters and slicers for dynamic reporting
 
 🎯 Business Problem
 
