@@ -20,21 +20,25 @@ volatility, sector-wise performance, and investor sentiment, helping users make 
 Live stock market data collected using the Yahoo Finance API (yfinance) and processed using Python before visualization in Power BI.
 
 ✨ Features / Highlights
+
 Real-time stock market monitoring
-• Market overview with KPIs (Average Price, Maximum Price, Minimum Price, Trading Volume)
-• Daily and monthly stock price trend analysis
-• Trading volume analysis across months
-• Price volatility analysis
-• Company-wise stock performance comparison
-• Bullish vs Bearish market sentiment analysis
-• Sector-wise performance and volatility analysis
-• Interactive filters and slicers for dynamic reporting
+
+* • Market overview with KPIs (Average Price, Maximum Price, Minimum Price, Trading Volume)
+* • Daily and monthly stock price trend analysis
+* • Trading volume analysis across months
+* • Price volatility analysis
+* • Company-wise stock performance comparison
+* • Bullish vs Bearish market sentiment analysis
+* • Sector-wise performance and volatility analysis
+* • Interactive filters and slicers for dynamic reporting
 
 🎯 Business Problem
+
 Investors and analysts often struggle to monitor multiple stocks, identify market trends, and compare sector performance in real time.
 Manual analysis is time-consuming and makes it difficult to identify investment opportunities quickly.
 
 💡Project Key Insights
+
 📊 Market Overview
 
 The dashboard provides an overview of market performance with a 74B total trading volume, reflecting strong market activity.
